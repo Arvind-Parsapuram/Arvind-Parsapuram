@@ -72,15 +72,6 @@ Machine learning application for predicting diabetes risk using healthcare data 
 
 ---
 
-### 🏦 Smart Bank
-
-Web-based banking application featuring **authentication, account management, transactions and balance handling**.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Arvind-Parsapuram/Smart-Bank)
-
----
 🎯 Currently Learning
 
 Machine Learning
@@ -94,6 +85,7 @@ Cloud & Deployment
 I'm continuously working on projects that combine machine learning with practical software development.
 
 ---
+
 🤝 Let's Connect
 
 <p align="left"> <a href="https://github.com/Arvind-Parsapuram"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/arvind-parsapuram-022346291/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:parsapuramarvind@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
