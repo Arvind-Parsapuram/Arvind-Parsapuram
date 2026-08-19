@@ -2,13 +2,10 @@
 
 ### Computer Science & Engineering (Data Science) Student | ML & Software Development
 
-I'm a **B.Tech CSE (Data Science) student at ACE Engineering College, Hyderabad**, interested in building practical software and machine learning solutions.
-
 I enjoy working across the development cycle — from **data preprocessing and model development** to **APIs, web applications, and deployment**.
 
 * 🎓 CSE (Data Science) @ ACE Engineering College
 * 🤖 Interested in **Machine Learning, Data Science & AI**
-* 💻 Practicing **Java, Python & Data Structures and Algorithms**
 * 🌐 Building applications with **React.js, FastAPI & Streamlit**
 * 🧠 Exploring **Deep Learning, Computer Vision & Generative AI**
 * 🚀 Continuously improving my problem-solving and software development skills
