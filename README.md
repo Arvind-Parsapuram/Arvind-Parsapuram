@@ -80,16 +80,6 @@ Web-based banking application focused on **authentication, account management, b
 
 ---
 
-## 💻 Problem Solving
-
-I practice **Data Structures & Algorithms in Java** through structured problem solving and competitive programming.
-
-**Topics:** Arrays · Strings · Searching · Sorting · Binary Search · Stack · Trees · Recursion · Backtracking · Hashing
-
-[![LeetCode Solutions](https://img.shields.io/badge/LeetCode%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/Arvind-Parsapuram/leetcode)
-
----
-
 ## 📚 Other Work
 
 ### 🐍 Python & ML Fundamentals
@@ -102,31 +92,9 @@ A collection of Python programming exercises, mini-projects, data analysis work,
 
 ---
 
-## 📜 Certifications & Learning
-
-- **Cisco Networking Academy** — CCNA: Introduction to Networks
-- **Cisco Networking Academy** — CCNA: Switching, Routing & Wireless Essentials
-- **Cisco Networking Academy** — CCNA: Enterprise Networking, Security & Automation
-- **Cisco Networking Academy** — Python Essentials 1 & 2
-- **Introduction to Data Science**
-- **Introduction to Modern AI**
-- **AICTE Virtual Internship**
-- **Generative AI Training**
-
----
-
 ## 🎯 Currently Exploring
 
-`Advanced Machine Learning` · `Deep Learning` · `Computer Vision` · `Full-Stack ML Applications` · `Cloud Deployment` · `Data Structures & Algorithms`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arvind-Parsapuram&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind-Parsapuram&theme=transparent&hide_border=true" height="165"/>
-</p>
+`Advanced Machine Learning` · `Deep Learning` · `Computer Vision` · `Full-Stack ML Applications` · `Cloud Deployment` 
 
 ---
 
